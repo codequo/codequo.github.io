@@ -2,9 +2,10 @@ html,
 body {
     height: 100%;
     font-family: 'Roboto Condensed', sans-serif;
+    background-color: #fefefe;
 }
 
-    .container {
+.container {
     height: 100%;
     display: flex;
     justify-content: center;
